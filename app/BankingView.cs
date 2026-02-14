@@ -12,7 +12,7 @@ namespace ATMApp.View
     
     Console.WriteLine("PIOL, Rey Angelo R.");
     Console.WriteLine("=== Simple ATM System ===");
-    Console.WriteLine("Initial Balance" + balance);
+    Console.WriteLine("Initial Balance" + accountBalance);
         
         while (operation != '5')
             {
